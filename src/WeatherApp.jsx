@@ -1,5 +1,4 @@
-
-import WeatherApp from './weatherApp';
+import WeatherApp from './WeatherApp';
 import SearchBox from "./SearchBox";
 import InfoBox from "./InfoBox";
 import { useState } from "react";
