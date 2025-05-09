@@ -2,14 +2,14 @@
 
 //import WeatherApp from "./weatherApp";
 
-import WeatherApp from './WeatherApp';
+import WeatherPage from './WeatherApp';
 
 
 function App(){
   
   return(
     <>
-      <WeatherApp/>
+      <WeatherPage/>
       
       
     </>
